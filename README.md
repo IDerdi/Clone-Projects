@@ -6,7 +6,7 @@
 
 ---
 
-### Netflix : https://iderdi.github.io/all_project/trendyol/
+### Netflix : https://iderdi.github.io/all_project/Netflix/
 ### Trendyol : https://iderdi.github.io/all_project/trendyol/
-### Exxen : https://iderdi.github.io/all_project/trendyol/
+### Exxen : https://iderdi.github.io/all_project/exxen/
 
